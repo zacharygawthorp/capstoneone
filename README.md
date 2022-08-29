@@ -1,0 +1,1 @@
+![schema-table](images/schema-table.png)
